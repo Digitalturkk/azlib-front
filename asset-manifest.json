@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/azlib-front/static/css/main.980e0568.css",
-    "main.js": "/azlib-front/static/js/main.3efdbf9e.js",
+    "main.js": "/azlib-front/static/js/main.f8e9618a.js",
     "static/media/bakubcinter.jpg": "/azlib-front/static/media/bakubcinter.c6ee20aea3d7f35518fa.jpg",
     "static/media/resulzade.png": "/azlib-front/static/media/resulzade.3d5f7cd06b94bfe02ab8.png",
     "static/media/emma.png": "/azlib-front/static/media/emma.cb7b4426ba767c834faa.png",
@@ -32,10 +32,10 @@
     "static/media/java.png": "/azlib-front/static/media/java.937798392bdc1d1d05e9.png",
     "index.html": "/azlib-front/index.html",
     "main.980e0568.css.map": "/azlib-front/static/css/main.980e0568.css.map",
-    "main.3efdbf9e.js.map": "/azlib-front/static/js/main.3efdbf9e.js.map"
+    "main.f8e9618a.js.map": "/azlib-front/static/js/main.f8e9618a.js.map"
   },
   "entrypoints": [
     "static/css/main.980e0568.css",
-    "static/js/main.3efdbf9e.js"
+    "static/js/main.f8e9618a.js"
   ]
 }
