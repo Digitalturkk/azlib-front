@@ -10,14 +10,7 @@ function App() {
   return (
     <div>
     <Navbar/>
-
-    <Route path="/" exact>
-    <Redirect to="/home" />
-    </Route>
-    <Route path="/home" exact>
     <HomePage/>
-    </Route>
-
     <Route path="/search" exact>
     <SearchBooksPage /> 
     </Route>
