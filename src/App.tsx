@@ -11,7 +11,7 @@ function App() {
     <div>
     <Navbar/>
     <HomePage/>
-    <Route path="/search" exact>
+    <Route path="/azlib-front/search" exact>
     <SearchBooksPage /> 
     </Route>
     
