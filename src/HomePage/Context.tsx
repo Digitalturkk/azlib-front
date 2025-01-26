@@ -1,9 +1,9 @@
 export const Context = () => {
     return (
         <div className="m-[2%]">
-            <div className="flex m-[2%] shadow-xl">
-                <img src={require("../img/bakubc.jpg")} className="w-1/2 rounded-lg" alt="" />
-                <div className="w-1/2 m-[2%]">
+            <div className="lg:flex m-[2%] lg:shadow-md lg:hover:shadow-xl sm:block">
+                <img src={require("../img/bakubc.jpg")} className="lg:w-1/2 lg:rounded-lg sm:w-full" alt="" />
+                <div className="lg:w-1/2 sm:w-full lg:m-[2%] sm:m-[4%]">
                 <h3 className="text-6xl font-bold text-indigo-600 w-full">Baku Book Centre</h3>
                 <p className="mt-[2%] text-lg text-indigo-500"> 
                     The Baku Book Center, established with the initiative and support of the Heydar Aliyev Foundation, 
@@ -21,10 +21,10 @@ export const Context = () => {
                 </p>
                 </div>
             </div>
-            <div className="flex m-[2%] shadow-xl">
-                <div className="w-1/2">
+            <div className="lg:flex m-[2%] lg:shadow-md lg:hover:shadow-xl sm:block">
+                <div className="lg:w-1/2 sm:w-full lg:m-0 sm:m-[5%]">
                 <h3 className="text-6xl font-bold text-indigo-600 w-full">The Heydar Aliyev Foundation </h3>
-                <p className="mt-[2%] text-lg mr-[2%] text-indigo-500"> 
+                <p className="mt-[2%] text-lg lg:mr-[2%] text-indigo-500"> 
                     The Heydar Aliyev Foundation has been established on the grounds of the nation's wish to express
                     its esteem for the memory of Heydar Aliyev, who entered our history as a builder of an independent state,
                     and the necessity of reflecting his rich moral heritage, underlining the importance for our country of
@@ -35,7 +35,7 @@ export const Context = () => {
                     and other spheres. 
                 </p>
                 </div>
-                <img src={require("../img/haf.jpg")} className="w-1/2 rounded-lg" alt="" />  
+                <img src={require("../img/haf.jpg")} className="lg:w-1/2 sm:w-full lg:rounded-lg " alt="" />  
             </div>
         </div>
     )

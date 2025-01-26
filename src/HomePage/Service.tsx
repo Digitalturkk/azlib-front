@@ -12,8 +12,8 @@ function Alert() {
 export const Service = () => {
     return (
         <>
-        <div className="flex border m-[6%] bg-indigo-100 rounded-2xl shadow-2xl">
-            <img src={require("../img/bakubcinter.jpg")} className="w-[400px] m-[5%] rounded-2xl shadow-xl" alt="Inter of BBC" />
+        <div className="lg:flex md:flex sm:block border m-[6%]  bg-indigo-100 rounded-2xl shadow-2xl">
+            <img src={require("../img/bakubcinter.jpg")} className="lg:w-[400px] lg:m-[5%] md:m-[5%] lg:rounded-2xl shadow-xl" alt="Inter of BBC" />
             <div className="flex-col justify-center mt-[5%]">
                 <h3 className="mt-[2%] text-indigo-700 text-5xl font-bold">Get Acceses Card to all libraries!</h3>
                 <p className="text-2xl mt-[5%] text-indigo-600">
