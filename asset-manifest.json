@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/azlib-front/static/css/main.980e0568.css",
-    "main.js": "/azlib-front/static/js/main.8a9a9389.js",
+    "main.css": "/azlib-front/static/css/main.5e8a8d3c.css",
+    "main.js": "/azlib-front/static/js/main.d8c8bd53.js",
     "static/media/bakubcinter.jpg": "/azlib-front/static/media/bakubcinter.c6ee20aea3d7f35518fa.jpg",
     "static/media/resulzade.png": "/azlib-front/static/media/resulzade.3d5f7cd06b94bfe02ab8.png",
     "static/media/emma.png": "/azlib-front/static/media/emma.cb7b4426ba767c834faa.png",
@@ -31,11 +31,11 @@
     "static/media/ataturk.jpg": "/azlib-front/static/media/ataturk.85dc49d2989420eab3c8.jpg",
     "static/media/java.png": "/azlib-front/static/media/java.937798392bdc1d1d05e9.png",
     "index.html": "/azlib-front/index.html",
-    "main.980e0568.css.map": "/azlib-front/static/css/main.980e0568.css.map",
-    "main.8a9a9389.js.map": "/azlib-front/static/js/main.8a9a9389.js.map"
+    "main.5e8a8d3c.css.map": "/azlib-front/static/css/main.5e8a8d3c.css.map",
+    "main.d8c8bd53.js.map": "/azlib-front/static/js/main.d8c8bd53.js.map"
   },
   "entrypoints": [
-    "static/css/main.980e0568.css",
-    "static/js/main.8a9a9389.js"
+    "static/css/main.5e8a8d3c.css",
+    "static/js/main.d8c8bd53.js"
   ]
 }
